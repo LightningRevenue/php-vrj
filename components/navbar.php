@@ -13,7 +13,7 @@ function renderNavbar() {
                 <div class="flex-shrink-0">
                     <h1 class="text-sm text-gray-500 font-nunito">Servicii Tarot | Dezlegare Blesteme si Farmece</h1>
                     <a href="/" class="flex items-center">
-                        <span class="text-2xl font-bold font-nunito">✨ Tarot</span>
+                        <span class="text-2xl font-bold font-nunito">✨ Vrajitoarea Larisa</span>
                     </a>                
                 </div>
                 

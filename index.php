@@ -72,9 +72,9 @@ require_once 'components/footer.php';
                         </div>
                     </div>
                     
-                    <!-- Right Column - Image -->
-                    <div class="relative h-full">
-                        <div class="placeholder-image rounded-lg shadow-2xl w-full h-[600px]"></div>
+                    <!-- Right Column - Image in Hero Section -->
+                    <div class="relative h-full flex items-center justify-center">
+                        <img src="assets/images/dezlegare-farmece-si-blesteme.jpg" alt="Vrăjitoarea Larisa" class="max-w-full max-h-[750px] object-contain rounded-lg shadow-2xl">
                     </div>
                 </div>
             </div>
@@ -427,9 +427,7 @@ require_once 'components/footer.php';
 
                     <!-- Right Column - Image -->
                     <div class="relative">
-                        <div class="placeholder-image rounded-lg shadow-2xl w-full h-[600px]">
-                            <div class="absolute inset-0 bg-gradient-to-tr from-black via-transparent to-red-900 opacity-50 rounded-lg"></div>
-                        </div>
+                        <img src="assets/images/aducerea-inapoi-a-persoanei-iubite.jpg" alt="Vrăjitoarea Larisa" class="w-full max-h-[600px] object-contain rounded-lg shadow-2xl">
                     </div>
                 </div>
             </div>
