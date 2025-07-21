@@ -7,14 +7,31 @@ require_once 'components/footer.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dezlegare Farmece | Vrăjitoarea Larisa</title>
+    <title>Tămăduitoare | Servicii Spirituale</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&amp;family=Nunito:wght@400;600;700&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        .font-playfair { font-family: 'Playfair Display', serif; }
-        .font-nunito { font-family: 'Nunito', sans-serif; }
+        .font-playfair {
+            font-family: 'Playfair Display', serif;
+        }
+        .font-nunito {
+            font-family: 'Nunito', sans-serif;
+        }
+        .placeholder-image {
+            background: linear-gradient(45deg, #1a1a1a 0%, #380000 100%);
+            position: relative;
+        }
+        .placeholder-image::after {
+            content: '✨';
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 4rem;
+            color: #ffffff;
+        }
     </style>
 </head>
 <body class="min-h-screen flex flex-col bg-black text-white">
@@ -28,13 +45,13 @@ require_once 'components/footer.php';
                     <!-- Left Column - Text Content -->
                     <div class="z-10">
                         <h1 class="text-4xl md:text-5xl lg:text-5xl font-playfair font-bold mb-6">
-                            <span class="text-red-600">Dezlegare</span> Farmece.
+                            <span class="text-red-600">Dezlegare</span> Blesteme și Farmece.
                         </h1>
                         <p class="text-lg md:text-xl font-nunito text-gray-300 mb-8">
-                            Nepoata legendarei Mama Omida, cea mai puternica vrajitoare a României si a lumii; dezleg farmece si te ajut sa-ti eliberezi sufletul
-                             prin ritualuri de magie alba, invatate chiar de la bunica mea.
+                            Nepoata legendarei Mama Omida, cea mai puternica vrajitoare a României si a lumii; dezleg farmece, blesteme, scot argintul viu si vindec depresia,
+                            anxietatea, psoriazisul si multe alte suferinte ce provin din farmece si blesteme.
                             <br><br>
-                            <span class="text-red-600 font-bold text-2xl">Dezlegarea Farmecelor </span>pentru eliberarea sufletului de povara magiei negre.
+                            <span class="text-red-600 font-bold text-2xl">Vrajitoarea Larisa te ajuta </span>să-ți eliberezi sufletul.
                         </p>
                         <div class="flex flex-col sm:flex-row gap-4">
                             <a href="tel:+40 768 599 488" 
@@ -57,7 +74,7 @@ require_once 'components/footer.php';
                     
                     <!-- Right Column - Image in Hero Section -->
                     <div class="relative h-full flex items-center justify-center">
-                        <img src="assets/images/dezlegare-farmece-magie-neagra.jpg" alt="Vrăjitoarea Larisa" class="max-w-full max-h-[750px] object-contain rounded-lg shadow-2xl">
+                        <img src="assets/images/dezlegare-farmece-si-blesteme.jpg" alt="Vrăjitoarea Larisa" class="max-w-full max-h-[750px] object-contain rounded-lg shadow-2xl">
                     </div>
                 </div>
             </div>
@@ -68,9 +85,9 @@ require_once 'components/footer.php';
             <div class="container mx-auto px-6">
                 <div class="max-w-4xl mx-auto text-center space-y-12">
                     <h2 class="text-4xl md:text-5xl font-playfair font-bold mb-12">
-                        <span class="text-red-600">Dezlegarea Farmecelor</span>
+                        <span class="text-red-600">Vrăjitoarea Larisa</span>
                         <br>
-                        <span class="text-2xl md:text-3xl text-gray-300 mt-4 block">Alung Magia Neagra si Dezleg Greutatile Puse Pe Tine</span>
+                        <span class="text-2xl md:text-3xl text-gray-300 mt-4 block">Moștenitoarea Secretelor Străvechi</span>
                     </h2>
 
                     <div class="space-y-8 text-left">
@@ -81,26 +98,26 @@ require_once 'components/footer.php';
 
                         <div class="space-y-6 text-lg md:text-xl font-nunito text-gray-300">
                             <p>
-                                Farmecele sunt puse pe tine de oameni care nu te-au lasat sa traiesti in pace.
-                                <span class="text-red-600 font-semibold"><br>Experienta mea ma ajuta</span> sa-ti dezleg problemele
-                                si sa alung spiritele rele, pentru a te elibera de povara magiei negre.
+                                Practic vrajitoria de la varsta de 7 ani, aduc persoana dorita inapoi, tratez bolile de care suferi.
+                                <span class="text-red-600 font-semibold"><br>Sunt recunoscuta</span> în întreaga țară 
+                                pentru puterea mea extraordinară și rezultatele garantate în dezlegarea celor mai puternice blesteme și farmece.
                             </p>
 
                             <p>
-                                Moștenesc competente ezoterice puternice, invatate de la bunica mea, Mama Omida,
-                                <span class="text-red-600 font-semibold">care m-au ajutat</span> sa practic ritualuri autentice de magie albă, 
-                                care te pot salva din orice povara ai avea.                            
+                                Moștenitoare a secretelor străvechi transmise de Mama Omida, bunica mea,
+                                <span class="text-red-600 font-semibold">m-au ajutat</span> sa practic ritualuri autentice de magie albă, 
+                                sa aduc spor la bani, sa vindec depresia, anxietatea, psoriazisul, sa scot argintul viu, sa vindec depresia, anxietatea, psoriazisul, sa scot argintul viu.
                             </p>
 
                             <div class="grid md:grid-cols-2 gap-6 mt-8">
                                 <div class="bg-black bg-opacity-50 p-6 rounded-lg">
                                     <h3 class="text-xl font-bold text-red-600 mb-4">Specializări</h3>
                                     <ul class="space-y-2">
-                                        <li>• Dezlegări de farmece</li>
-                                        <li>• Indepartarea Magiei Negre Aruncate Asupra Ta</li>
-                                        <li>• Tămăduirea Farmecelor din Dragoste</li>
-                                        <li>• Ritualuri de Readucere a Norocului si Sanatatii</li>
-                                        <li>• Aducerea Persoanei Iubite Inapoi</li>
+                                        <li>• Dezlegări de farmece și blesteme</li>
+                                        <li>• Scoaterea argintului viu</li>
+                                        <li>• Tămăduirea bolilor provocate de magie</li>
+                                        <li>• Ritualuri de purificare energetică</li>
+                                        <li>• Aducerea persoanei iubite</li>
                                     </ul>
                                 </div>
 
@@ -147,7 +164,28 @@ require_once 'components/footer.php';
                         Ritual de<span class="text-red-600"> Dezlegare</span>
                         </h2>
                         <p class="text-xl md:text-2xl font-nunito text-gray-300">
-                            Farmece • Blesteme • Argint Viu • Magie Neagră
+                            Farmece • Blesteme • Argint Viu • Magie Neagră • Aducere Persoană Iubită
+                        </p>
+                    </div>
+
+                    <!-- Vindecare -->
+                    <div class="space-y-4">
+                        <h2 class="text-4xl md:text-5xl font-playfair font-bold">
+                            <span class="text-white">Vindecare</span>
+                            <span class="text-red-600">Spirituală</span>
+                        </h2>
+                        <p class="text-xl md:text-2xl font-nunito text-gray-300">
+                            Depresie • Anxietate • Psoriazis • Dependențe • Spor La Bani
+                        </p>
+                    </div>
+
+                    <!-- Servicii Speciale -->
+                    <div class="space-y-4">
+                        <h2 class="text-4xl md:text-5xl font-playfair font-bold">
+                            <span class="text-red-600">Servicii</span> Speciale
+                        </h2>
+                        <p class="text-xl md:text-2xl font-nunito text-gray-300">
+                            Tarot • Tamaduire • Chiromantie • Citire in Cafea
                         </p>
                     </div>
 
@@ -284,7 +322,118 @@ require_once 'components/footer.php';
                         </div>
                     </div>
 
-                    <!-- Testimoniale Text -->
+                    <!-- Testimonial/Quote -->
+                    <div class="mt-16 border-l-4 border-red-600 pl-6 text-left max-w-2xl mx-auto">
+                        <p class="text-2xl md:text-3xl font-playfair italic text-gray-300">
+                            "Puterea strămoșilor mei curge prin venele mele. Cu ajutorul lor și al forțelor divine, 
+                            <span class="text-red-600">vindec sufletele pierdute</span> și aduc lumina în întuneric."
+                        </p>
+                        <p class="text-xl md:text-2xl font-nunito text-red-600 mt-4">— Vrăjitoarea Larisa</p>
+                    </div>
+
+                    <!-- Call to Action -->
+                    <div class="mt-16">
+                        <p class="text-2xl md:text-3xl font-playfair mb-8">
+                            Programează o ședință de 
+                            <span class="text-red-600">consultație spirituală</span>
+                        </p>
+                        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+                            <a href="tel:+40123456789" 
+                               class="bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center text-xl">
+                                <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                                </svg>
+                                Sună pentru Programare
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Secțiunea de Verificare -->
+        <div class="mt-24 bg-black bg-opacity-50 rounded-xl p-8">
+            <div class="container mx-auto">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                    <!-- Left Column - Text and Badges -->
+                    <div class="space-y-8">
+                        <h2 class="text-4xl md:text-4xl font-playfair font-bold">
+                            <span class="text-white">Singura Care Te Poate Ajuta Sunt Eu</span> <br>
+                            <span class="text-red-600">- Vrăjitoarea Larisa -</span>
+                        </h2>
+                        
+                        <!-- Badge Items -->
+                        <div class="space-y-6">
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Servicii Ezoterice si Dezlegare Farmece</h3>
+                                    <p class="text-gray-300">Practicantă a artelor ezoterice din copilărie, cu rezultate confirmate de sute de persoane mulțumite.</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Aducerea Persoanei Iubite Inapoi si Spor La Bani</h3>
+                                    <p class="text-gray-300">Nepoata celebrei Mama Omida, păstrătoare a secretelor străvechi și a ritualurilor autentice, prin harul meu readuc persoana dorita inapoi, si spor la bani.</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Vindecare Boli si Scoaterea Argintului Viu</h3>
+                                    <p class="text-gray-300">Rezolvare garantată a oricărui tip de problemă, prin harul meu vindec boli si scot argintul viu.</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Dezlegare Farmece si Blesteme La Orice Ora</h3>
+                                    <p class="text-gray-300">Consultații și sedinte disponibile oricând, pentru orice tip de problema sau situatie.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Final CTA -->
+                        <div class="mt-8">
+                            <a href="tel:+40123456789" 
+                               class="inline-flex items-center bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 text-xl">
+                                <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                                </svg>
+                                Sună Acum pentru Ajutor
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column - Image -->
+                    <div class="relative">
+                        <img src="assets/images/aducerea-inapoi-a-persoanei-iubite.jpg" alt="Vrăjitoarea Larisa" class="w-full max-h-[600px] object-contain rounded-lg shadow-2xl">
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Testimoniale Text -->
         <section class="py-16 bg-black">
             <div class="container mx-auto px-6">
                 <div class="max-w-5xl mx-auto">
@@ -301,7 +450,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">M.D.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Maria din Italia</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Maria din București</h4>
                                     <p class="text-gray-400">Dezlegare farmece dragoste</p>
                                 </div>
                             </div>
@@ -317,7 +466,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">I.P.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Ion din Dortmund</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Ion din Ploiești</h4>
                                     <p class="text-gray-400">Vindecare psoriazis și depresie</p>
                                 </div>
                             </div>
@@ -365,7 +514,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">E.S.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Elena din Londra</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Elena din Sibiu</h4>
                                     <p class="text-gray-400">Scoatere argint viu</p>
                                 </div>
                             </div>
@@ -397,7 +546,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">C.R.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Carmen din Franta</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Carmen din Cluj</h4>
                                     <p class="text-gray-400">Spor la bani</p>
                                 </div>
                             </div>
@@ -510,10 +659,6 @@ require_once 'components/footer.php';
             </div>
         </section>
 
-                </div>
-            </div>
-        </section>
-
         <!-- Final Call to Action Section -->
         <section class="py-16 bg-black">
             <div class="container mx-auto px-6 text-center">
@@ -542,6 +687,7 @@ require_once 'components/footer.php';
                 </div>
             </div>
         </section>
+
     </main>
 
     <?php renderFooter(); ?>

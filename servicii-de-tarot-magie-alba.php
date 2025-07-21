@@ -7,7 +7,7 @@ require_once 'components/footer.php';
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dezlegare Farmece | Vrăjitoarea Larisa</title>
+    <title>Servicii De Tarot | Vrăjitoarea Larisa</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,13 +28,13 @@ require_once 'components/footer.php';
                     <!-- Left Column - Text Content -->
                     <div class="z-10">
                         <h1 class="text-4xl md:text-5xl lg:text-5xl font-playfair font-bold mb-6">
-                            <span class="text-red-600">Dezlegare</span> Farmece.
+                            <span class="text-red-600">Citire in Tarot</span> Ghidare Ezoterica
                         </h1>
                         <p class="text-lg md:text-xl font-nunito text-gray-300 mb-8">
-                            Nepoata legendarei Mama Omida, cea mai puternica vrajitoare a României si a lumii; dezleg farmece si te ajut sa-ti eliberezi sufletul
-                             prin ritualuri de magie alba, invatate chiar de la bunica mea.
+                            Puterea mea vine din strămoși, din legătura cu forțele naturii și din darul divin pe care l-am moștenit. Am invatat sa citesc
+                            viitorul oamenilor, fie el bun, sau rau, si reusesc sa te ghidez spre viata si situatia dorita.
                             <br><br>
-                            <span class="text-red-600 font-bold text-2xl">Dezlegarea Farmecelor </span>pentru eliberarea sufletului de povara magiei negre.
+                            <span class="text-red-600 font-bold text-2xl">Ghidare Ezoterica in Tarot </span>pentru intelegerea suferintelor si a viitorului.
                         </p>
                         <div class="flex flex-col sm:flex-row gap-4">
                             <a href="tel:+40 768 599 488" 
@@ -57,7 +57,7 @@ require_once 'components/footer.php';
                     
                     <!-- Right Column - Image in Hero Section -->
                     <div class="relative h-full flex items-center justify-center">
-                        <img src="assets/images/dezlegare-farmece-magie-neagra.jpg" alt="Vrăjitoarea Larisa" class="max-w-full max-h-[750px] object-contain rounded-lg shadow-2xl">
+                        <img src="assets/images/citire-in-tarot-magie-alba.jpg" alt="Vrăjitoarea Larisa" class="max-w-full max-h-[750px] object-contain rounded-lg shadow-2xl">
                     </div>
                 </div>
             </div>
@@ -68,9 +68,9 @@ require_once 'components/footer.php';
             <div class="container mx-auto px-6">
                 <div class="max-w-4xl mx-auto text-center space-y-12">
                     <h2 class="text-4xl md:text-5xl font-playfair font-bold mb-12">
-                        <span class="text-red-600">Dezlegarea Farmecelor</span>
+                        <span class="text-red-600">Citire in Tarot</span>
                         <br>
-                        <span class="text-2xl md:text-3xl text-gray-300 mt-4 block">Alung Magia Neagra si Dezleg Greutatile Puse Pe Tine</span>
+                        <span class="text-2xl md:text-3xl text-gray-300 mt-4 block">Prevestesc viitorul, si te ajut sa scapi de chinurile care vor veni</span>
                     </h2>
 
                     <div class="space-y-8 text-left">
@@ -81,26 +81,26 @@ require_once 'components/footer.php';
 
                         <div class="space-y-6 text-lg md:text-xl font-nunito text-gray-300">
                             <p>
-                                Farmecele sunt puse pe tine de oameni care nu te-au lasat sa traiesti in pace.
-                                <span class="text-red-600 font-semibold"><br>Experienta mea ma ajuta</span> sa-ti dezleg problemele
-                                si sa alung spiritele rele, pentru a te elibera de povara magiei negre.
+                            Cărțile de tarot nu mint. Ele spun adevărul pe care sufletul tău îl știe, dar mintea ta refuză să-l accepte. 
+                            Printr-un ritual autentic și vechi, învățat de la bunica mea — puternica Mama Omida — îți ofer ghidare, 
+                            claritate și răspunsuri la întrebările care te frământă.
                             </p>
 
                             <p>
-                                Moștenesc competente ezoterice puternice, invatate de la bunica mea, Mama Omida,
-                                <span class="text-red-600 font-semibold">care m-au ajutat</span> sa practic ritualuri autentice de magie albă, 
-                                care te pot salva din orice povara ai avea.                            
+                                Experienta mea ma ajuta sa-ti ghidez spre viata si situatia dorita
+                                <span class="text-red-600 font-semibold"> si sa-ti prevad viitorul</span> pentru a afla daca ai fost  sau nu 
+                                tintit  de  magia  neagra.                        
                             </p>
 
                             <div class="grid md:grid-cols-2 gap-6 mt-8">
                                 <div class="bg-black bg-opacity-50 p-6 rounded-lg">
                                     <h3 class="text-xl font-bold text-red-600 mb-4">Specializări</h3>
                                     <ul class="space-y-2">
-                                        <li>• Dezlegări de farmece</li>
-                                        <li>• Indepartarea Magiei Negre Aruncate Asupra Ta</li>
-                                        <li>• Tămăduirea Farmecelor din Dragoste</li>
-                                        <li>• Ritualuri de Readucere a Norocului si Sanatatii</li>
-                                        <li>• Aducerea Persoanei Iubite Inapoi</li>
+                                        <li>• Citire in Tarot</li>
+                                        <li>• Prevestirea Gandului Rau</li>
+                                        <li>• Vizualizarea Problemelor Viitoare</li>
+                                        <li>• Ghidarea Spre Viata Dorita</li>
+                                        <li>• Aducerea Stabilitatii Spirituale Inapoi In Viata Ta</li>
                                     </ul>
                                 </div>
 
@@ -136,6 +136,89 @@ require_once 'components/footer.php';
                 </div>
             </div>
         </section>
+
+        <!-- Secțiunea de Verificare -->
+        <div class="mt-24 bg-black bg-opacity-50 rounded-xl p-8">
+            <div class="container mx-auto">
+                <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+                    <!-- Left Column - Text and Badges -->
+                    <div class="space-y-8">
+                        <h2 class="text-4xl md:text-4xl font-playfair font-bold">
+                            <span class="text-white">Iti Prevad Viitorul, si te Ajut sa Alungi Blestemele</span> <br>
+                        </h2>
+                        
+                        <!-- Badge Items -->
+                        <div class="space-y-6">
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Servicii de Tarot</h3>
+                                    <p class="text-gray-300">Practicantă a artelor ezoterice din copilărie, cu rezultate confirmate de sute de persoane mulțumite.</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Deznodarea Problemelor Viitoare, si Alungarea Blestemelor</h3>
+                                    <p class="text-gray-300">Nepoata celebrei Mama Omida, păstrătoare a secretelor străvechi și a ritualurilor autentice, prin harul meu dezvalui probleme din viitorul tau, pentru a 
+                                        te ajuta sa scapi de chinurile care vor veni.
+                                    </p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Ritualuri de Vindecare</h3>
+                                    <p class="text-gray-300">Rezolvare garantată a oricărui tip de problemă, prin harul meu vindec boli si scot argintul viu.</p>
+                                </div>
+                            </div>
+
+                            <div class="flex items-start space-x-4">
+                                <div class="flex-shrink-0 bg-red-600 rounded-full p-2">
+                                    <svg class="w-6 h-6 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
+                                    </svg>
+                                </div>
+                                <div>
+                                    <h3 class="text-xl font-bold text-red-600">Dezlegare Farmece si Blesteme Pentru Persoanele Indurerate</h3>
+                                    <p class="text-gray-300">Consultații și sedinte disponibile oricând, pentru orice tip de problema sau situatie.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Final CTA -->
+                        <div class="mt-8">
+                            <a href="tel:+40123456789" 
+                               class="inline-flex items-center bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 text-xl">
+                                <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
+                                </svg>
+                                Sună Acum pentru Ajutor
+                            </a>
+                        </div>
+                    </div>
+
+                    <!-- Right Column - Image -->
+                    <div class="relative">
+                        <img src="assets/images/aducerea-inapoi-a-persoanei-iubite.jpg" alt="Vrăjitoarea Larisa" class="w-full max-h-[600px] object-contain rounded-lg shadow-2xl">
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <!-- Services Section -->
         <section class="py-20 bg-black">

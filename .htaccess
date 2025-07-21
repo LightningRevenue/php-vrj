@@ -88,6 +88,9 @@ ErrorDocument 500 /pages/500.php
 
 # Redirect from clean URLs to actual PHP files 
 RewriteRule ^dezlegare-farmece-vrajitoare$ dezlegare-farmece-vrajitoare.php [L]
+RewriteRule ^dezlegare-blesteme-vrajitoare$ dezlegare-blesteme-vrajitoare.php [L]
+RewriteRule ^servicii-de-tarot-magie-alba$ servicii-de-tarot-magie-alba.php [L]
+
 
 
 

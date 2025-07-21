@@ -30,9 +30,9 @@ function renderNavbar() {
                 <!-- Desktop Center Menu -->
                 <div class="hidden md:flex items-center justify-center flex-1 px-4 font-nunito">
                     <a href="<?php echo url('dezlegare-farmece-vrajitoare'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-farmece-vrajitoare' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
-                    <a href="<?php echo url('servicii'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
-                    <a href="<?php echo url('despre'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/despre' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
-                    <a href="<?php echo url('blog'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/blog' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
+                    <a href="<?php echo url('dezlegare-blesteme-vrajitoare'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-blesteme-vrajitoare' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
+                    <a href="<?php echo url('servicii-de-tarot-magie-alba'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii-de-tarot-magie-alba' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
+                    <a href="<?php echo url('tamaduitoare-bucuresti-magie-alba'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/tamaduitoare-bucuresti-magie-alba' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
                 </div>
 
                 <!-- Contact Buttons -->
@@ -56,9 +56,9 @@ function renderNavbar() {
             <div id="mobile-menu" class="hidden md:hidden mt-4">
                 <div class="flex flex-col space-y-4 font-nunito">
                     <a href="<?php echo url('dezlegare-farmece-vrajitoare'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-farmece-vrajitoare' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
-                    <a href="<?php echo url('servicii'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
-                    <a href="<?php echo url('despre'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/despre' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
-                    <a href="<?php echo url('blog'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/blog' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
+                    <a href="<?php echo url('dezlegare-blesteme-vrajitoare'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-blesteme-vrajitoare' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
+                    <a href="<?php echo url('servicii-de-tarot-magie-alba'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii-de-tarot-magie-alba' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
+                    <a href="<?php echo url('tamaduitoare-bucuresti-magie-alba'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/tamaduitoare-bucuresti-magie-alba' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
                     <div class="flex flex-col space-y-2">
                         <a href="tel:+40768599488" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-full text-center transition-colors duration-200 flex items-center justify-center">
                             <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">

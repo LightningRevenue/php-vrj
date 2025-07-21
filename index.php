@@ -450,7 +450,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">M.D.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Maria din București</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Maria din Italia</h4>
                                     <p class="text-gray-400">Dezlegare farmece dragoste</p>
                                 </div>
                             </div>
@@ -466,7 +466,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">I.P.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Ion din Ploiești</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Ion din Dortmund</h4>
                                     <p class="text-gray-400">Vindecare psoriazis și depresie</p>
                                 </div>
                             </div>
@@ -514,7 +514,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">E.S.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Elena din Sibiu</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Elena din Londra</h4>
                                     <p class="text-gray-400">Scoatere argint viu</p>
                                 </div>
                             </div>
@@ -546,7 +546,7 @@ require_once 'components/footer.php';
                                     <span class="text-2xl">C.R.</span>
                                 </div>
                                 <div class="ml-4">
-                                    <h4 class="text-xl font-playfair text-red-600">Carmen din Cluj</h4>
+                                    <h4 class="text-xl font-playfair text-red-600">Carmen din Franta</h4>
                                     <p class="text-gray-400">Spor la bani</p>
                                 </div>
                             </div>
