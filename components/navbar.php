@@ -3,6 +3,7 @@ function renderNavbar() {
     // Get current page for active state
     $current_page = $_SERVER['REQUEST_URI'];
     ?>
+    <?php require_once __DIR__ . '/../config.php'; ?>
     <nav class="bg-black text-white shadow-lg">
         <!-- Add Nunito font -->
         <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
@@ -28,10 +29,10 @@ function renderNavbar() {
 
                 <!-- Desktop Center Menu -->
                 <div class="hidden md:flex items-center justify-center flex-1 px-4 font-nunito">
-                    <a href="/dezlegare-farmece-vrajitoare" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-farmece-vrajitoare' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
-                    <a href="/servicii" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
-                    <a href="/despre" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/despre' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
-                    <a href="/blog" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/blog' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
+                    <a href="<?php echo url('dezlegare-farmece-vrajitoare'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-farmece-vrajitoare' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
+                    <a href="<?php echo url('servicii'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
+                    <a href="<?php echo url('despre'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/despre' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
+                    <a href="<?php echo url('blog'); ?>" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/blog' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
                 </div>
 
                 <!-- Contact Buttons -->
@@ -54,10 +55,10 @@ function renderNavbar() {
             <!-- Mobile Menu -->
             <div id="mobile-menu" class="hidden md:hidden mt-4">
                 <div class="flex flex-col space-y-4 font-nunito">
-                    <a href="/" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
-                    <a href="/servicii" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
-                    <a href="/despre" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/despre' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
-                    <a href="/blog" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/blog' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
+                    <a href="<?php echo url('dezlegare-farmece-vrajitoare'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-farmece-vrajitoare' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
+                    <a href="<?php echo url('servicii'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
+                    <a href="<?php echo url('despre'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/despre' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
+                    <a href="<?php echo url('blog'); ?>" class="hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/blog' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>
                     <div class="flex flex-col space-y-2">
                         <a href="tel:+40768599488" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-full text-center transition-colors duration-200 flex items-center justify-center">
                             <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
