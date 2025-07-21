@@ -11,7 +11,7 @@ function renderNavbar() {
             <div class="flex items-center justify-between">
                 <!-- Logo -->
                 <div class="flex-shrink-0">
-                    <h1 class="text-sm text-gray-500 font-nunito">Servicii Tarot | Dezlegare Blesteme si Farmece</h1>
+                    <h1 class="text-sm text-white font-nunito">Servicii Tarot | Dezlegare Blesteme si Farmece</h1>
                     <a href="/" class="flex items-center">
                         <span class="text-2xl font-bold font-nunito">✨ Vrajitoarea Larisa</span>
                     </a>                
@@ -28,7 +28,7 @@ function renderNavbar() {
 
                 <!-- Desktop Center Menu -->
                 <div class="hidden md:flex items-center justify-center flex-1 px-4 font-nunito">
-                    <a href="/" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
+                    <a href="/dezlegare-farmece-vrajitoare" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/dezlegare-farmece-vrajitoare' ? 'text-red-500' : ''; ?>">Dezlegare Farmece</a>
                     <a href="/servicii" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/servicii' ? 'text-red-500' : ''; ?>">Dezelegare Blesteme</a>
                     <a href="/despre" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/despre' ? 'text-red-500' : ''; ?>">Servicii Tarot</a>
                     <a href="/blog" class="mx-4 py-2 hover:text-red-500 transition-colors duration-200 <?php echo $current_page == '/blog' ? 'text-red-500' : ''; ?>">Tamaduitoare Bucuresti</a>

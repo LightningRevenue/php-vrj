@@ -10,7 +10,7 @@ define('SITE_NAME', 'Vrăjitoarea Larisa');
 define('SITE_URL', 'http://localhost/vrajitoare');
 
 // Base URL configuration
-define('BASE_URL', '/'); // Adjust if needed for subfolder installation
+define('BASE_URL', '/vrajitoare/'); // Adjust if needed for subfolder installation
 
 // Error reporting
 error_reporting(E_ALL);

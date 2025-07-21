@@ -87,3 +87,11 @@ ErrorDocument 500 /pages/500.php
 </IfModule>
 
 # Redirect from clean URLs to actual PHP files 
+RewriteRule ^dezlegare-farmece-vrajitoare$ dezlegare-farmece-vrajitoare.php [L]
+
+
+
+
+
+
+
