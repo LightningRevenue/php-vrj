@@ -90,6 +90,7 @@ ErrorDocument 500 /pages/500.php
 RewriteRule ^dezlegare-farmece-vrajitoare$ dezlegare-farmece-vrajitoare.php [L]
 RewriteRule ^dezlegare-blesteme-vrajitoare$ dezlegare-blesteme-vrajitoare.php [L]
 RewriteRule ^servicii-de-tarot-magie-alba$ servicii-de-tarot-magie-alba.php [L]
+RewriteRule ^tamaduitoare-bucuresti-magie-alba$ tamaduitoare-bucuresti-magie-alba.php [L]
 
 
 

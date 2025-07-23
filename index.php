@@ -53,141 +53,19 @@ require_once 'components/footer.php';
                             <br><br>
                             <span class="text-red-600 font-bold text-2xl">Vrajitoarea Larisa te ajuta </span>să-ți eliberezi sufletul.
                         </p>
-                        <div class="flex flex-col sm:flex-row gap-4">
-                            <a href="tel:+40 768 599 488" 
-                               class="bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center">
-                                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
-                                </svg>
-                                Sună Acum
-                            </a>
-                            <a href="https://wa.me/40768599488" 
-                               target="_blank"
-                               class="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center">
-                                <svg class="w-5 h-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
-                                    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                                </svg>
-                                WhatsApp
-                            </a>
-                        </div>
                     </div>
                     
                     <!-- Right Column - Image in Hero Section -->
                     <div class="relative h-full flex items-center justify-center">
-                        <img src="assets/images/dezlegare-farmece-si-blesteme.jpg" alt="Vrăjitoarea Larisa" class="max-w-full max-h-[750px] object-contain rounded-lg shadow-2xl">
+                        <img src="assets/images/vrajitoarea-larisa-cimitir.jpg" alt="Vrăjitoarea Larisa" class="max-w-full max-h-[750px] object-contain rounded-lg shadow-2xl">
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- About Section -->
-        <section class=" bg-black">
-            <div class="container mx-auto px-6">
-                <div class="max-w-4xl mx-auto text-center space-y-12">
-                    <h2 class="text-4xl md:text-5xl font-playfair font-bold mb-12">
-                        <span class="text-red-600">Vrăjitoarea Larisa</span>
-                        <br>
-                        <span class="text-2xl md:text-3xl text-gray-300 mt-4 block">Moștenitoarea Secretelor Străvechi</span>
-                    </h2>
-
-                    <div class="space-y-8 text-left">
-                        <p class="text-xl md:text-2xl font-nunito text-gray-300 border-l-4 border-red-600 pl-6">
-                            "Puterea mea vine din strămoși, din legătura cu forțele naturii și din darul divin pe care l-am moștenit. 
-                            Sunt aici pentru a ajuta sufletele pierdute să își găsească drumul înapoi către lumină."
-                        </p>
-
-                        <div class="space-y-6 text-lg md:text-xl font-nunito text-gray-300">
-                            <p>
-                                Practic vrajitoria de la varsta de 7 ani, aduc persoana dorita inapoi, tratez bolile de care suferi.
-                                <span class="text-red-600 font-semibold"><br>Sunt recunoscuta</span> în întreaga țară 
-                                pentru puterea mea extraordinară și rezultatele garantate în dezlegarea celor mai puternice blesteme și farmece.
-                            </p>
-
-                            <p>
-                                Moștenitoare a secretelor străvechi transmise de Mama Omida, bunica mea,
-                                <span class="text-red-600 font-semibold">m-au ajutat</span> sa practic ritualuri autentice de magie albă, 
-                                sa aduc spor la bani, sa vindec depresia, anxietatea, psoriazisul, sa scot argintul viu, sa vindec depresia, anxietatea, psoriazisul, sa scot argintul viu.
-                            </p>
-
-                            <div class="grid md:grid-cols-2 gap-6 mt-8">
-                                <div class="bg-black bg-opacity-50 p-6 rounded-lg">
-                                    <h3 class="text-xl font-bold text-red-600 mb-4">Specializări</h3>
-                                    <ul class="space-y-2">
-                                        <li>• Dezlegări de farmece și blesteme</li>
-                                        <li>• Scoaterea argintului viu</li>
-                                        <li>• Tămăduirea bolilor provocate de magie</li>
-                                        <li>• Ritualuri de purificare energetică</li>
-                                        <li>• Aducerea persoanei iubite</li>
-                                    </ul>
-                                </div>
-
-                                <div class="bg-black bg-opacity-50 p-6 rounded-lg">
-                                    <h3 class="text-xl font-bold text-red-600 mb-4">Puterea Vindecării</h3>
-                                    <ul class="space-y-2">
-                                        <li>• Depresie și anxietate</li>
-                                        <li>• Dependențe și vicii</li>
-                                        <li>• Psoriazis și boli de piele</li>
-                                        <li>• Probleme în dragoste</li>
-                                        <li>• Blocaje financiare și profesionale</li>
-                                    </ul>
-                                </div>
-                            </div>
-
-                            <p class="mt-8">
-                                Fiecare caz este tratat cu maximă seriozitate și discreție, folosind ritualuri personalizate 
-                                și obiecte sfințite pentru a asigura rezultate rapide și de durată. 
-                                <span class="text-red-600 font-semibold">VA GARANTEZ</span> eficiența 
-                                ritualurilor mele prin puterea moștenită și legătura mea specială cu forțele divine.
-                            </p>
-
-                            <div class="text-center mt-24">
-                                <p class="text-2xl font-playfair text-red-600 font-bold mb-4">
-                                    Nu lăsa răul să îți controleze viața!
-                                </p>
-                                <p class="text-xl text-gray-300">
-                                    Programează o consultație și descoperă calea către vindecare și eliberare spirituală.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Services Section -->
         <section class="py-20 bg-black">
             <div class="container mx-auto px-6">
                 <div class="max-w-4xl mx-auto text-center space-y-12">
-                    <!-- Ritual de Dezlegare -->
-                    <div class="space-y-4">
-                        <h2 class="text-4xl md:text-5xl font-playfair font-bold">
-                        Ritual de<span class="text-red-600"> Dezlegare</span>
-                        </h2>
-                        <p class="text-xl md:text-2xl font-nunito text-gray-300">
-                            Farmece • Blesteme • Argint Viu • Magie Neagră • Aducere Persoană Iubită
-                        </p>
-                    </div>
-
-                    <!-- Vindecare -->
-                    <div class="space-y-4">
-                        <h2 class="text-4xl md:text-5xl font-playfair font-bold">
-                            <span class="text-white">Vindecare</span>
-                            <span class="text-red-600">Spirituală</span>
-                        </h2>
-                        <p class="text-xl md:text-2xl font-nunito text-gray-300">
-                            Depresie • Anxietate • Psoriazis • Dependențe • Spor La Bani
-                        </p>
-                    </div>
-
-                    <!-- Servicii Speciale -->
-                    <div class="space-y-4">
-                        <h2 class="text-4xl md:text-5xl font-playfair font-bold">
-                            <span class="text-red-600">Servicii</span> Speciale
-                        </h2>
-                        <p class="text-xl md:text-2xl font-nunito text-gray-300">
-                            Tarot • Tamaduire • Chiromantie • Citire in Cafea
-                        </p>
-                    </div>
 
                     <!-- Testimoniale Video -->
                     <div class="mt-24 space-y-8">
@@ -272,6 +150,24 @@ require_once 'components/footer.php';
                                 </div>
                             </div>
 
+                            <!-- Video 4 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/ATz__fuApBs"
+                                        title="I-am Adus Inapoi Persoana Iubita"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Probleme Rezolvate cu Vrajitoarea Larisa</h3>
+                                    <p class="text-gray-300">Rezultate Garantate</p>
+                                </div>
+                            </div>
+
                             <!-- Video 2 -->
                             <div class="bg-black bg-opacity-50 p-4 rounded-lg">
                                 <div class="relative" style="padding-bottom: 177.77%;">
@@ -286,6 +182,24 @@ require_once 'components/footer.php';
                                 </div>
                                 <div class="mt-4 text-center">
                                     <h3 class="text-xl font-bold text-red-600">Dezlegarea Farmecelor si Aducerea Persoanei Iubite Inapoi                                  </h3>
+                                    <p class="text-gray-300">Aducerea Persoanei Iubite Inapoi</p>
+                                </div>
+                            </div>
+
+                            <!-- Video 2 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/FJeBF3gbtf0"
+                                        title="Dezlegarea Farmecelor si Aducerea Persoanei Iubite Inapoi"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Increderea Clientilor Mei                                 </h3>
                                     <p class="text-gray-300">Aducerea Persoanei Iubite Inapoi</p>
                                 </div>
                             </div>
@@ -307,6 +221,132 @@ require_once 'components/footer.php';
                                     <p class="text-gray-300">Vindecare Boli Grele</p>
                                 </div>
                             </div>
+
+                            <!-- Video 3 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/yqwtYnJ_-GQ"
+                                        title="I-am Alungat Boala Grea | A Reusit Sa Mearga Din Nou"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Rezolv Orice Problema Garantat</h3>
+                                    <p class="text-gray-300">Vindecare Boli Grele</p>
+                                </div>
+                            </div>
+
+                            <!-- Video 3 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/A5h3kKTo_nE"
+                                        title="I-am Alungat Boala Grea | A Reusit Sa Mearga Din Nou"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Te ajut la orice ora</h3>
+                                    <p class="text-gray-300">Vindecare Boli Grele</p>
+                                </div>
+                            </div>
+
+                            <!-- Video 3 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/aXyZKbKybPg"
+                                        title="I-am Alungat Boala Grea | A Reusit Sa Mearga Din Nou"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Efectul Argintului Viu</h3>
+                                    <p class="text-gray-300">Vindecare Boli Grele</p>
+                                </div>
+                            </div>
+
+                            <!-- Video 3 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/y8yUuDJqjxo"
+                                        title="I-am Alungat Boala Grea | A Reusit Sa Mearga Din Nou"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Vrajitoarea Larisa, singura vrajitoare reala</h3>
+                                    <p class="text-gray-300">Vindecare Boli Grele</p>
+                                </div>
+                            </div>
+
+                            <!-- Video 3 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/wDj8ud7YsiU"
+                                        title="I-am Alungat Boala Grea | A Reusit Sa Mearga Din Nou"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Tamaduitoarea Larisa</h3>
+                                    <p class="text-gray-300">Vindecare Boli Grele</p>
+                                </div>
+                            </div>
+
+                            <!-- Video 3 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/797AtPL6ToI"
+                                        title="I-am Alungat Boala Grea | A Reusit Sa Mearga Din Nou"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Client Ajutat cu Mare Drag</h3>
+                                    <p class="text-gray-300">Vindecare Boli Grele</p>
+                                </div>
+                            </div>
+
+                            <!-- Video 3 -->
+                            <div class="bg-black bg-opacity-50 p-4 rounded-lg">
+                                <div class="relative" style="padding-bottom: 177.77%;">
+                                    <iframe 
+                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
+                                        src="https://www.youtube.com/embed/yYOXrmxiD7g"
+                                        title="I-am Alungat Boala Grea | A Reusit Sa Mearga Din Nou"
+                                        frameborder="0"
+                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; web-share"
+                                        allowfullscreen>
+                                    </iframe>
+                                </div>
+                                <div class="mt-4 text-center">
+                                    <h3 class="text-xl font-bold text-red-600">Cel mai Puternic Ritual</h3>
+                                    <p class="text-gray-300">Vindecare Boli Grele</p>
+                                </div>
+                            </div>
                         </div>
 
                         <!-- Call to Action sub videoclipuri -->
@@ -321,30 +361,223 @@ require_once 'components/footer.php';
                             </a>
                         </div>
                     </div>
+                </div>
+            </div>
+        </section>
 
-                    <!-- Testimonial/Quote -->
-                    <div class="mt-16 border-l-4 border-red-600 pl-6 text-left max-w-2xl mx-auto">
-                        <p class="text-2xl md:text-3xl font-playfair italic text-gray-300">
-                            "Puterea strămoșilor mei curge prin venele mele. Cu ajutorul lor și al forțelor divine, 
-                            <span class="text-red-600">vindec sufletele pierdute</span> și aduc lumina în întuneric."
-                        </p>
-                        <p class="text-xl md:text-2xl font-nunito text-red-600 mt-4">— Vrăjitoarea Larisa</p>
+        <!-- WhatsApp Testimonial Images Section -->
+        <section class="py-16 bg-black">
+            <div class="container mx-auto px-6">
+                <h2 class="text-4xl font-playfair font-bold text-center mb-8">
+                    <span class="text-white">Testimoniale</span>
+                    <span class="text-red-600"> WhatsApp</span>
+                </h2>
+                <p class="text-xl font-nunito text-gray-300 text-center mb-8">
+                    Iată ce spun clienții mei mulțumiți pe WhatsApp
+                </p>
+                
+                <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
+                    <!-- WhatsApp Testimonial 1 -->
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-1.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+                    
+                    <!-- WhatsApp Testimonial 2 -->
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-2.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
                     </div>
 
-                    <!-- Call to Action -->
-                    <div class="mt-16">
-                        <p class="text-2xl md:text-3xl font-playfair mb-8">
-                            Programează o ședință de 
-                            <span class="text-red-600">consultație spirituală</span>
-                        </p>
-                        <div class="flex flex-col sm:flex-row gap-4 justify-center">
-                            <a href="tel:+40123456789" 
-                               class="bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center text-xl">
-                                <svg class="w-6 h-6 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <!-- WhatsApp Testimonial 2 -->
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-6.jpeg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+                    
+                    <!-- WhatsApp Testimonial 2 -->
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-7.jpeg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+
+                    <!-- WhatsApp Testimonial 2 -->
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-8.jpeg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+
+                    <!-- WhatsApp Testimonial 2 -->
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-9.jpeg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-3.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-4.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+
+                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
+                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
+                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
+                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                            </svg>
+                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
+                        </div>
+                        <img src="assets/images/discutie-5.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section class=" bg-black">
+            <div class="container mx-auto px-6">
+                <div class="max-w-4xl mx-auto text-center space-y-12">
+                    <h2 class="text-4xl md:text-5xl font-playfair font-bold mb-12">
+                        <span class="text-red-600">Vrăjitoarea Larisa</span>
+                        <br>
+                        <span class="text-2xl md:text-3xl text-gray-300 mt-4 block">Moștenitoarea Secretelor Străvechi</span>
+                    </h2>
+
+                    <div class="flex flex-col sm:flex-row gap-4">
+                            <a href="tel:+40 768 599 488" 
+                               class="bg-red-600 hover:bg-red-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center">
+                                <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/>
                                 </svg>
-                                Sună pentru Programare
+                                Sună Acum
                             </a>
+                            <a href="https://wa.me/40768599488" 
+                               target="_blank"
+                               class="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center">
+                                <svg class="w-5 h-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
+                                </svg>
+                                WhatsApp
+                            </a>
+                            <a href="https://www.tiktok.com/@vrajitoareaa_larisa87" 
+                               target="_blank"
+                               class="bg-black hover:bg-gray-800 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center">
+                                <svg class="w-5 h-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M19.59 6.69a4.83 4.83 0 0 1-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 0 1-5.2 1.74 2.89 2.89 0 0 1 2.31-4.64 2.93 2.93 0 0 1 .88.13V9.4a6.84 6.84 0 0 0-1-.05A6.33 6.33 0 0 0 5 20.1a6.34 6.34 0 0 0 10.86-4.43v-7a8.16 8.16 0 0 0 4.77 1.52v-3.4a4.85 4.85 0 0 1-1-.1z"/>
+                                </svg>
+                                TikTok
+                            </a>
+                            <a href="https://www.facebook.com/vrajitoarea.larisamaria" 
+                               target="_blank"
+                               class="bg-[#1877F2] hover:bg-blue-600 text-white px-8 py-4 rounded-full font-nunito transition-colors duration-200 flex items-center justify-center">
+                                <svg class="w-5 h-5 mr-2" viewBox="0 0 24 24" fill="currentColor">
+                                    <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+                                </svg>
+                                Facebook
+                            </a>
+                        </div>
+
+                    <div class="space-y-8 text-left">
+                        <p class="text-xl md:text-2xl font-nunito text-gray-300 border-l-4 border-red-600 pl-6">
+                            "Puterea mea vine din strămoși, din legătura cu forțele naturii și din darul divin pe care l-am moștenit. 
+                            Sunt aici pentru a ajuta sufletele pierdute să își găsească drumul înapoi către lumină."
+                        </p>
+
+                        <div class="space-y-6 text-lg md:text-xl font-nunito text-gray-300">
+                            <p>
+                                Practic vrajitoria de la varsta de 7 ani, aduc persoana dorita inapoi, tratez bolile de care suferi.
+                                <span class="text-red-600 font-semibold"><br>Sunt recunoscuta</span> în întreaga țară 
+                                pentru puterea mea extraordinară și rezultatele garantate în dezlegarea celor mai puternice blesteme și farmece.
+                            </p>
+
+                            <p>
+                                Moștenitoare a secretelor străvechi transmise de Mama Omida, bunica mea,
+                                <span class="text-red-600 font-semibold">m-au ajutat</span> sa practic ritualuri autentice de magie albă, 
+                                sa aduc spor la bani, sa vindec depresia, anxietatea, psoriazisul, sa scot argintul viu, sa vindec depresia, anxietatea, psoriazisul, sa scot argintul viu.
+                            </p>
+
+                            <div class="grid md:grid-cols-2 gap-6 mt-8">
+                                <div class="bg-black bg-opacity-50 p-6 rounded-lg">
+                                    <h3 class="text-xl font-bold text-red-600 mb-4">Specializări</h3>
+                                    <ul class="space-y-2">
+                                        <li>• Dezlegări de farmece și blesteme</li>
+                                        <li>• Scoaterea argintului viu</li>
+                                        <li>• Tămăduirea bolilor provocate de magie</li>
+                                        <li>• Ritualuri de purificare energetică</li>
+                                        <li>• Aducerea persoanei iubite</li>
+                                    </ul>
+                                </div>
+
+                                <div class="bg-black bg-opacity-50 p-6 rounded-lg">
+                                    <h3 class="text-xl font-bold text-red-600 mb-4">Puterea Vindecării</h3>
+                                    <ul class="space-y-2">
+                                        <li>• Depresie și anxietate</li>
+                                        <li>• Dependențe și vicii</li>
+                                        <li>• Psoriazis și boli de piele</li>
+                                        <li>• Probleme în dragoste</li>
+                                        <li>• Blocaje financiare și profesionale</li>
+                                    </ul>
+                                </div>
+                            </div>
+
+                            <p class="mt-8">
+                                Fiecare caz este tratat cu maximă seriozitate și discreție, folosind ritualuri personalizate 
+                                și obiecte sfințite pentru a asigura rezultate rapide și de durată. 
+                                <span class="text-red-600 font-semibold">VA GARANTEZ</span> eficiența 
+                                ritualurilor mele prin puterea moștenită și legătura mea specială cu forțele divine.
+                            </p>
+
+                            <div class="text-center mt-24">
+                                <p class="text-2xl font-playfair text-red-600 font-bold mb-4">
+                                    Nu lăsa răul să îți controleze viața!
+                                </p>
+                                <p class="text-xl text-gray-300">
+                                    Programează o consultație și descoperă calea către vindecare și eliberare spirituală.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -590,6 +823,7 @@ require_once 'components/footer.php';
             </div>
         </section>
 
+
         <!-- Sectiunea de Incredere si Autenticitate -->
         <section class="py-16 bg-gradient-to-b from-black to-red-900/10">
             <div class="container mx-auto px-6">
@@ -684,73 +918,6 @@ require_once 'components/footer.php';
                         </svg>
                         WhatsApp
                     </a>
-                </div>
-            </div>
-        </section>
-
-        <!-- WhatsApp Testimonial Images Section -->
-        <section class="py-16 bg-black">
-            <div class="container mx-auto px-6">
-                <h2 class="text-4xl font-playfair font-bold text-center mb-8">
-                    <span class="text-white">Testimoniale</span>
-                    <span class="text-red-600"> WhatsApp</span>
-                </h2>
-                <p class="text-xl font-nunito text-gray-300 text-center mb-8">
-                    Iată ce spun clienții mei mulțumiți pe WhatsApp
-                </p>
-                
-                <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-                    <!-- WhatsApp Testimonial 1 -->
-                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
-                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
-                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                            </svg>
-                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
-                        </div>
-                        <img src="assets/images/discutie-1.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
-                    </div>
-                    
-                    <!-- WhatsApp Testimonial 2 -->
-                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
-                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
-                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                            </svg>
-                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
-                        </div>
-                        <img src="assets/images/discutie-2.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
-                    </div>
-
-                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
-                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
-                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                            </svg>
-                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
-                        </div>
-                        <img src="assets/images/discutie-3.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
-                    </div>
-
-                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
-                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
-                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                            </svg>
-                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
-                        </div>
-                        <img src="assets/images/discutie-4.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
-                    </div>
-
-                    <div class="bg-black/40 p-2 rounded-xl backdrop-blur border border-gray-800">
-                        <div class="bg-[#128C7E] rounded-t-lg p-1 flex items-center">
-                            <svg class="w-4 h-4 text-white" viewBox="0 0 24 24" fill="currentColor">
-                                <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/>
-                            </svg>
-                            <span class="text-white ml-1 font-bold text-xs">WhatsApp</span>
-                        </div>
-                        <img src="assets/images/discutie-5.jpg" alt="Testimonial WhatsApp" class="w-full rounded-b-lg">
-                    </div>
                 </div>
             </div>
         </section>
